@@ -1,0 +1,443 @@
+[
+  {
+    "data": {
+      "$color": "#A29A32",
+      "$type": "circle",
+      "$dim": 7,
+      "type": "protein",
+      "node_desc": ""
+    },
+    "adjacencies": [
+      {
+        "nodeFrom": "7",
+        "nodeTo": "8",
+        "data": {
+          "$color": "#19486E",
+          "$lineWidth": 1
+        },
+        "interactionData": [
+          {
+            "experimentRef": "42",
+            "confidenceVal": "0.40",
+            "conf_desc": "free-text"
+          }
+        ]
+      },
+      {
+        "nodeFrom": "7",
+        "nodeTo": "20",
+        "data": {
+          "$color": "#E41BBF",
+          "$lineWidth": 2
+        },
+        "interactionData": [
+          {
+            "experimentRef": "48",
+            "confidenceVal": "0.37",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "256",
+            "confidenceVal": "0.37",
+            "conf_desc": "free-text"
+          }
+        ]
+      }
+    ],
+    "id": "7",
+    "name": "Q13362"
+  },
+  {
+    "data": {
+      "$color": "#DA7AD2",
+      "$type": "circle",
+      "$dim": 7,
+      "type": "protein",
+      "node_desc": ""
+    },
+    "adjacencies": [
+      {
+        "nodeFrom": "27",
+        "nodeTo": "7",
+        "data": {
+          "$color": "#4B97E5",
+          "$lineWidth": 6
+        },
+        "interactionData": [
+          {
+            "experimentRef": "52",
+            "confidenceVal": "0.46",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "56",
+            "confidenceVal": "0.46",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "58",
+            "confidenceVal": "0.46",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1688",
+            "confidenceVal": "0.46",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1692",
+            "confidenceVal": "0.46",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1694",
+            "confidenceVal": "0.46",
+            "conf_desc": "free-text"
+          }
+        ]
+      },
+      {
+        "nodeFrom": "27",
+        "nodeTo": "8",
+        "data": {
+          "$color": "#7B9E80",
+          "$lineWidth": 1
+        },
+        "interactionData": [
+          {
+            "experimentRef": "1586",
+            "confidenceVal": "0.35",
+            "conf_desc": "free-text"
+          }
+        ]
+      },
+      {
+        "nodeFrom": "27",
+        "nodeTo": "23",
+        "data": {
+          "$color": "#F1D7FA",
+          "$lineWidth": 10
+        },
+        "interactionData": [
+          {
+            "experimentRef": "1648",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1650",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1652",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1664",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1670",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1678",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1680",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1682",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1684",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1686",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1696",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1676",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1690",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "1698",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "794",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "796",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "798",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "800",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "802",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "808",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "812",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "814",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "816",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "818",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "824",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "806",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "822",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "826",
+            "confidenceVal": "0.94",
+            "conf_desc": "free-text"
+          }
+        ]
+      }
+    ],
+    "id": "27",
+    "name": "P30153"
+  },
+  {
+    "data": {
+      "$color": "#8DEA7F",
+      "$type": "circle",
+      "$dim": 7,
+      "type": "protein",
+      "node_desc": ""
+    },
+    "adjacencies": [
+      {
+        "nodeFrom": "23",
+        "nodeTo": "7",
+        "data": {
+          "$color": "#C48E79",
+          "$lineWidth": 6
+        },
+        "interactionData": [
+          {
+            "experimentRef": "50",
+            "confidenceVal": "0.60",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "54",
+            "confidenceVal": "0.60",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "60",
+            "confidenceVal": "0.60",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "804",
+            "confidenceVal": "0.60",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "820",
+            "confidenceVal": "0.60",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "828",
+            "confidenceVal": "0.60",
+            "conf_desc": "free-text"
+          }
+        ]
+      },
+      {
+        "nodeFrom": "23",
+        "nodeTo": "8",
+        "data": {
+          "$color": "#341568",
+          "$lineWidth": 6
+        },
+        "interactionData": [
+          {
+            "experimentRef": "564",
+            "confidenceVal": "0.80",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "592",
+            "confidenceVal": "0.80",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "648",
+            "confidenceVal": "0.80",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "736",
+            "confidenceVal": "0.80",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "566",
+            "confidenceVal": "0.80",
+            "conf_desc": "free-text"
+          },
+          {
+            "experimentRef": "640",
+            "confidenceVal": "0.80",
+            "conf_desc": "free-text"
+          }
+        ]
+      }
+    ],
+    "id": "23",
+    "name": "P67775"
+  },
+  {
+    "data": {
+      "$color": "#F2BFD4",
+      "$type": "circle",
+      "$dim": 7,
+      "type": "protein",
+      "node_desc": ""
+    },
+    "adjacencies": [],
+    "id": "8",
+    "name": "P30154"
+  },
+  {
+    "data": {
+      "$color": "#9A79DB",
+      "$type": "circle",
+      "$dim": 7,
+      "type": "protein",
+      "node_desc": ""
+    },
+    "adjacencies": [
+      {
+        "nodeFrom": "11",
+        "nodeTo": "7",
+        "data": {
+          "$color": "#ABD47B",
+          "$lineWidth": 1
+        },
+        "interactionData": [
+          {
+            "experimentRef": "44",
+            "confidenceVal": "0.40",
+            "conf_desc": "free-text"
+          }
+        ]
+      },
+      {
+        "nodeFrom": "11",
+        "nodeTo": "27",
+        "data": {
+          "$color": "#273DE3",
+          "$lineWidth": 1
+        },
+        "interactionData": [
+          {
+            "experimentRef": "1614",
+            "confidenceVal": "0.40",
+            "conf_desc": "free-text"
+          }
+        ]
+      },
+      {
+        "nodeFrom": "11",
+        "nodeTo": "23",
+        "data": {
+          "$color": "#8846D9",
+          "$lineWidth": 1
+        },
+        "interactionData": [
+          {
+            "experimentRef": "762",
+            "confidenceVal": "0.40",
+            "conf_desc": "free-text"
+          }
+        ]
+      }
+    ],
+    "id": "11",
+    "name": "Q76MZ3"
+  },
+  {
+    "data": {
+      "$color": "#7C935C",
+      "$type": "circle",
+      "$dim": 7,
+      "type": "protein",
+      "node_desc": ""
+    },
+    "adjacencies": [],
+    "id": "20",
+    "name": "P03433"
+  }
+]
